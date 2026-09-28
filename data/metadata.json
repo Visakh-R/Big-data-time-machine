@@ -1,0 +1,23 @@
+{
+  "source_file": "data/traffic.csv",
+  "rows_after_cleaning": 48120,
+  "columns": [
+    "DateTime",
+    "Junction",
+    "Vehicles",
+    "ID"
+  ],
+  "junctions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "start_time": "2015-11-01 00:00:00",
+  "end_time": "2017-06-30 23:00:00",
+  "notes": [
+    "The source dataset contains DateTime, Junction, Vehicles and ID.",
+    "CongestionLevel is derived from vehicle-count quantiles within each junction.",
+    "No speed, density, accident, weather or GPS fields are present in the source dataset."
+  ]
+}

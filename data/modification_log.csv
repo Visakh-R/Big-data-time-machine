@@ -1,0 +1,4 @@
+ModificationTime,HistoricalDateTime,Junction,Field,OldValue,NewValue,Reason
+2026-09-28 21:18:22,2015-11-01 00:00:00,1,Vehicles,15,30,accident
+2026-09-28 21:18:22,2015-11-01 00:00:00,1,CongestionLevel,Low,Medium,accident
+2026-09-28 21:19:51,2015-11-01 00:00:00,2,Vehicles,6,50,another accident
