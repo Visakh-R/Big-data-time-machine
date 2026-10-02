@@ -36,3 +36,6 @@ Do not run `python ingestion.py` after making manual historical modifications un
 - A manual `Vehicles` modification is also flagged as unusual when the old-to-new value changes by 50% or more.
 - Example: 14 → 70 is a 400% increase and appears in Unusual Activities with source `Historical Modification`.
 - The header status now shows `TIME TRAVEL READY` instead of `MODIFICATION ENABLED`.
+
+To deploy the site 
+https://big-data-time-machine.onrender.com/
